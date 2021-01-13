@@ -1,2 +1,6 @@
-_site/
+# dir
+/_site
+
+# file
+*.lock
 
