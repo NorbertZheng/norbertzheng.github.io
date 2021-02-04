@@ -5,12 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+---
 
-{% include base_path %}
+See the full list on  [Google Scholar](https://scholar.google.com/)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
+
+### [SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving](https://arxiv.org/)
+Wenquan Xu, Haoyu Song, Linyang Hou, **Hui Zheng**, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang, Bin Liu  
+_INFOCOM 2021_
+
+### [Cross-People Mobile-Phone Based Airwriting Character Recognition](https://arxiv.org/)
+Yunzhe Li \*, **Hui Zheng** \*, He Zhu \*, Haojun Ai and Xiaowei Dong  
+_ICPR 2020_
+
