@@ -25,7 +25,7 @@ Publications
 ======
 * Yunzhe Li\*, **Hui Zheng\***, He Zhu\*, Haojun Ai and Xiaowei Dong. ”Cross-People Mobile-Phone Based Airwriting Character Recognition”. ICPR2020 Accepted.
 * Wenquan Xu, Haoyu Song, Linyang Hou, **Hui Zheng**, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang,
-Bin Liu. ”SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving”. INFOCOM2021 Accepted
+Bin Liu. ”SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving”. INFOCOM2021 Accepted.
 
 Research Experience
 ======
