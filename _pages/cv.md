@@ -41,7 +41,7 @@ Research Experience
   * SODA accelerates the MEC-assisted similar 3D object detection for autonomous driving. We designed efficient algorithms for the novel TCAM-NMC in-network accelerator, and through extensive evaluations, confirmed the architecture feasibility and performance superiority on the subject matter.
 * **Cross-People Mobile-Phone Based Airwriting Character Recognition**, Research Intern, Feb. 2020 - Apr. 2020
   * School of Cyber Science and Engineering, Wuhan University
-  * Advised by A/Prof. Haojun AI
+  * Advised by A/Prof. Haojun Ai
   * Research on issues related to transfer learning in Air-Writing.
   * Develop a system that can transfer between different people and have better personalized recognition performance.
 * **RISC-V Super Scalar Processor Design and Internet of Things Application**, Research Intern, May. 2019 - Jan. 2020
@@ -52,7 +52,7 @@ Projects
 ======
 * **Air-Writing Recognition based on Deep Learning**, Team Leader, Oct. 2019 - Dec. 2019
   * School of Cyber Science and Engineering, Wuhan University
-  * Advised by A/Prof. Haojun AI
+  * Advised by A/Prof. Haojun Ai
   * Works of FPGA Innovation Design Competition. Use Bluetooth ring for Air-Writing. A more natural way of Human-Computer Interaction.
   * Use FPGA to filter and unpack the data collected by the acceleration sensor. Then transfer the data to the embedded Arm and use the deep neural network for prediction.
 * **2-issue MIPS-CPU**, Team Leader, Jan. 2020 - Aug. 2020
