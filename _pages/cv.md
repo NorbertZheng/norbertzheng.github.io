@@ -29,9 +29,11 @@ Bin Liu. ”SODA: Similar 3D Object Detection Accelerator at Network Edge for Au
 
 Research Experience
 ======
-* **Single-Cell Transcriptomics to uncover the Relationships between Inflammation and Hormone in Pituitary Cells**, Research Intern, Sept. 2020 - now
+* **Single-Cell Transcriptomics to uncover the Relationships between Inflammation and Hormone in Pituitary Cells**, Research Intern, Sept. 2020 - Mar. 2021
   * National Institute of Biological Sciences, Beijing
   * Advised by Prof. Minmin Luo
+  * Research on issues related to the role of pituitary cells in systemic neuroinflammation at the single-cell transcriptome level.
+  * We revealed the transcriptional differences of different types of pituitary cells in the process of central nervous endocrine inflammation regulation. And we discovered a group of transcription factors uniformly expressed in different types of pituitary cells.
 * **SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving**, Research Intern, May. 2020 - Aug. 2020
   * School of Computer Science, Tsinghua University
   * Advised by Prof. Bin Liu
