@@ -7,12 +7,14 @@ redirect_from:
   - /about
 ---
 
-# About
-Currently, I am an undergraduate student majoring in computer science from Hongyi Honor College, [Wuhan University](https://en.whu.edu.cn/). 
+# About Me
+------
+I am a Ph.D. student in the [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/). I obtained my Bachelor's degree in Computer Science from [Hongyi Honor College](http://hyxt.whu.edu.cn/) at [Wuhan University](https://whu.edu.cn/), China.
 
-I was a research intern at [Tsinghua University](https://www.tsinghua.edu.cn/), working on Computer Network with Wenquan Xu and [Bin Liu](http://www.cs.tsinghua.edu.cn/publish/cs/4616/2013/20130424093153561198286/20130424093153561198286_.html).Now, I am a research intern at [NIBS](http://nibs.ac.cn/), working on Neuroscience with Ruiyu Wang and [Minmin Luo](http://nibs.ac.cn/yjsjyimgshow.php?cid=5&sid=6&id=775).
+Previously, I was a research intern at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by [Dr. Bin Liu](http://www.cs.tsinghua.edu.cn/publish/cs/4616/2013/20130424093153561198286/20130424093153561198286_.html), [National Institute of Biological Sciences](http://nibs.ac.cn/), advised by [Dr. Minmin Luo](http://nibs.ac.cn/yjsjyimgshow.php?cid=5&sid=6&id=775), [Peking University](https://www.pku.edu.cn/), advised by [Dr. Si Wu](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=208).
 
-I will be a Ph.D. student in the [AAIS](http://www.aais.pku.edu.cn) department at Peking University.
+## Research Interests
+My research interests lie on **computational neuroscience** and **brain-inspired computing**.
 
-My research interests lie on computational neuroscience and brain-inspired computing.
+Drop me a line if you are also interested in computational neuroscience, or brain-inspired computing research!
 

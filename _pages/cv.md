@@ -29,6 +29,9 @@ Bin Liu. ”SODA: Similar 3D Object Detection Accelerator at Network Edge for Au
 
 Research Experience
 ======
+* **A Neural Network Model with Gap Junction for Global Feature Extraction**, Research Intern, Mar. 2021 - now
+  * Academy for Advanced Interdisciplinary Studies, Peking University
+  * Advised by Prof. Si Wu
 * **Single-Cell Transcriptomics to uncover the Relationships between Inflammation and Hormone in Pituitary Cells**, Research Intern, Sept. 2020 - Mar. 2021
   * National Institute of Biological Sciences, Beijing
   * Advised by Prof. Minmin Luo
@@ -73,6 +76,7 @@ Projects
 
 Awards & Scholarships
 ======
+* Outstanding Graduate **(12 out of 127, 10%)**, Wuhan University, Apr. 2021
 * National Scholarship, Wuhan University, Oct. 2020
 * Excellent Student Scholarship **(Rank: 1/32)**, Wuhan University, Oct. 2020
 * National Second Prize of FPGA Innovation Design Competition, China, Dec. 2019
