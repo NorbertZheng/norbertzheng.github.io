@@ -11,70 +11,41 @@ author_profile: true
 
 Research Interests
 ======
-* **Neuroscience**: Computational Neuroscience; Brain-Inspired Computing
+* **Neuroscience**: Computational Neuroscience; Reinforcement Learning
 
 Education
 ======
-* B.S. in Computer Science, Wuhan University, 2021
-  * **GPA**: 3.84/4.00(92.1/100)
-  * **Rank**: 2/32(selected from 363 students in School of Computer Science, Wuhan University)
-  * **Exchange**: Visiting Studnet at University of California, Berkeley(2019 summer)
-* Ph.D in Neuroscience, Peking University, 2026 (expected)
-
-Publications
-======
-* Yunzhe Li\*, **Hui Zheng\***, He Zhu\*, Haojun Ai and Xiaowei Dong. ”Cross-People Mobile-Phone Based Airwriting Character Recognition”. ICPR2020 Accepted.
-* Wenquan Xu, Haoyu Song, Linyang Hou, **Hui Zheng**, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang,
-Bin Liu. ”SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving”. INFOCOM2021 Accepted.
+* Ph.D. student in Neuroscience, Peking University, 2026 (expected)
+  * Advisor: Dr. Yunzhe Liu
+* B.S. in Computer Science (with honors), Wuhan University, 2021
+  * **GPA**: 3.84/4.00 (92.1/100)
+  * **Rank**: 2/32 (selected from 363 students in School of Computer Science, Wuhan University)
+  * **Exchange**: Visiting Studnet at University of California, Berkeley (2019 summer)
 
 Research Experience
 ======
-* **A Neural Network Model with Gap Junction for Global Feature Extraction**, Research Intern, Mar. 2021 - now
-  * Academy for Advanced Interdisciplinary Studies, Peking University
-  * Advised by Prof. Si Wu
-* **Single-Cell Transcriptomics to uncover the Relationships between Inflammation and Hormone in Pituitary Cells**, Research Intern, Sept. 2020 - Mar. 2021
-  * National Institute of Biological Sciences, Beijing
-  * Advised by Prof. Minmin Luo
-  * Research on issues related to the role of pituitary cells in systemic neuroinflammation at the single-cell transcriptome level.
-  * We revealed the transcriptional differences of different types of pituitary cells in the process of central nervous endocrine inflammation regulation. And we discovered a group of transcription factors uniformly expressed in different types of pituitary cells.
-* **SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving**, Research Intern, May. 2020 - Aug. 2020
-  * School of Computer Science, Tsinghua University
-  * Advised by Prof. Bin Liu
-  * Research on issues related to the real-time processing of autonomous driving in the Internet of Vehicles.
-  * SODA accelerates the MEC-assisted similar 3D object detection for autonomous driving. We designed efficient algorithms for the novel TCAM-NMC in-network accelerator, and through extensive evaluations, confirmed the architecture feasibility and performance superiority on the subject matter.
-* **Cross-People Mobile-Phone Based Airwriting Character Recognition**, Research Intern, Feb. 2020 - Apr. 2020
-  * School of Cyber Science and Engineering, Wuhan University
-  * Advised by A/Prof. Haojun Ai
-  * Research on issues related to transfer learning in Air-Writing.
-  * Develop a system that can transfer between different people and have better personalized recognition performance.
-* **RISC-V Super Scalar Processor Design and Internet of Things Application**, Research Intern, May. 2019 - Jan. 2020
-  * School of Computer Science, Wuhan University
-  * Co-advised by Prof. Shubo Liu and A/Prof. Zhaohui Cai
+* **Peking University, Beijing, China**, Research Assistant, Oct. 2021 - Present
+  * Advisor: Dr. Yunzhe Liu
+  * Researched the role of replay for memory consolidation.
+  * Build a machine replicate the replay observed in both human and rodent.
+* **Peking University, Beijing, China**, Research Assistant, Mar. 2021 - Aug. 2021
+  * Advisor: Dr. Si Wu
+  * Researched the global to local information processing.
+  * Analyzed the dynamics of the neural network model with gap junction.
+* **Tsinghua University, Beijing, China**, Research Assistant, Sept. 2020 - Mar. 2021
+  * Advisor: Dr. Minmin Luo
+  * Researched the role of pituitary cells in systemic neuroinflammation at the single-cell transcriptome level.
+  * Revealed the transcriptional differences of different types of pituitary cells in the process of central nervous endocrine inflammation regulation.
+* **Tsinghua University, Beijing, China**, Research Assistant, May. 2020 - Aug. 2020
+  * Advisor: Dr. Bin Liu
+  * Researched the real-time processing of autonomous driving in the Internet of Vehicles.
+  * Designed efficient algorithms for the novel TCAM-NMC in-network accelerator, which accelerates the MEC-assisted similar 3D object detection for autonomous driving.
+* **Wuhan University, Wuhan, China**, Research Assistant, Feb. 2020 - Apr. 2020
+  * Advisor: Dr. Haojun Ai
+  * Researched transfer learning in Air-Writing.
+  * Developed a system that could transfer between different people.
 
-Projects
-======
-* **Air-Writing Recognition based on Deep Learning**, Team Leader, Oct. 2019 - Dec. 2019
-  * School of Cyber Science and Engineering, Wuhan University
-  * Advised by A/Prof. Haojun Ai
-  * Works of FPGA Innovation Design Competition. Use Bluetooth ring for Air-Writing. A more natural way of Human-Computer Interaction.
-  * Use FPGA to filter and unpack the data collected by the acceleration sensor. Then transfer the data to the embedded Arm and use the deep neural network for prediction.
-* **2-issue MIPS-CPU**, Team Leader, Jan. 2020 - Aug. 2020
-  * School of Computer Science, Wuhan University
-  * Co-advised by Prof. Shubo Liu and A/Prof. Zhaohui Cai
-  * Works of NSCSCC2020. Use MIPS32 ISA. Run at 80MHz.
-  * Support all instructions necessary to start the linux kernel. Parallelize TLB and cache. Reach 20 points in the NSCSCC performance test.
-* **Lcore**, Team Leader, Aug. 2019 - Sept. 2019
-  * School of Computer Science, Wuhan University
-  * Co-advised by Prof. Shubo Liu and A/Prof. Zhaohui Cai
-  * Works of NSCSCC2019. A simple operating system, running on MIPS-CPU.
-  * Support basic process switching, memory management and shell interaction, etc.
-* **Object-Deputy DataBase**, Team Member, Jan. 2020 - Mar. 2020
-  * School of Computer Science, Wuhan University
-  * Advised by Prof. Zhiyong Peng
-  * The design of Database Design and Implementation Course.
-  * Realize basic operations of ODDB, such as adding, deleting, modifying and searching.
-
-Awards & Scholarships
+Awards & Honors
 ======
 * Outstanding Graduate **(12 out of 127, 10%)**, Wuhan University, Apr. 2021
 * National Scholarship, Wuhan University, Oct. 2020
@@ -85,14 +56,11 @@ Awards & Scholarships
 * Excellent Student Scholarship **(Rank: 8/32)**, Wuhan University, Oct. 2018
 * Freshman Scholarship, Wuhan University, Oct. 2017
 
-Skills
+Publications
 ======
-* **Programming**: systemVerilog, C, python, R, java, LaTex, javascript, matlab
-* **Development Framework**: pytorch, tensorflow, vue
-* **English Level**: **CET-4** (538), **CET-6** (533)
+[//]: 2021
+* Wenquan Xu, Haoyu Song, Linyang Hou, <u>Hui Zheng</u>, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang and Bin Liu, "SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving," in IEEE International Conference on Computer Communications (INFOCOM), 2021.
 
-LeaderShip
-======
-* **Minister of Network Technology Department of Student Union**, Hongyi Honor College, Wuhan University, Sept. 2018 - Jun. 2019
-* **Vice-Chairman of Microsoft Student Club**, Wuhan University, Sept. 2019 - Jun. 2020
+[//]: 2020
+* Yunzhe Li\*, <u>Hui Zheng*</u>, He Zhu\*, Haojun Ai and Xiaowei Dong, "Cross-People Mobile-Phone Based Airwriting Character Recognition," in International Conference on Pattern Recognition (ICPR), 2020.
 

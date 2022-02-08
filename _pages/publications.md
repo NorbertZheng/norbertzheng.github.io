@@ -7,15 +7,20 @@ author_profile: true
 
 ---
 
-See the full list on  [Google Scholar](https://scholar.google.com/)
+See the full list on  [Google Scholar](https://scholar.google.com/citations?hl=en&user=NWFTgZ8AAAAJ)
 
 ---
+Note: * indicates equal contribution
 
-### [SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving](https://arxiv.org/)
-Wenquan Xu, Haoyu Song, Linyang Hou, **Hui Zheng**, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang, Bin Liu  
-_INFOCOM 2021_
+### 2021
+------
+**SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving**  
+Wenquan Xu, Haoyu Song, Linyang Hou, <u>Hui Zheng</u>, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang, Bin Liu  
+In IEEE International Conference on Computer Communications (INFOCOM)
 
-### [Cross-People Mobile-Phone Based Airwriting Character Recognition](https://arxiv.org/)
-Yunzhe Li \*, **Hui Zheng** \*, He Zhu \*, Haojun Ai and Xiaowei Dong  
-_ICPR 2020_
+### 2020
+------
+**Cross-People Mobile-Phone Based Airwriting Character Recognition**  
+Yunzhe Li\*, <u>Hui Zheng*</u>, He Zhu\*, Haojun Ai and Xiaowei Dong  
+In International Conference on Pattern Recognition (ICPR)
 
