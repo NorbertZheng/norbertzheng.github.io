@@ -24,6 +24,8 @@ Drop me a line if you are also interested in computational neuroscience, or rein
 
 # News
 ------
+ - \[09/2021\] Start my Ph.D. @ Peking University, China, highly excited about the study life!
+ - \[06/2021\] I graduated from Wuhan University.
  - \[04/2021\] I'm an Outstanding Graduate (12 out of 127, <u>10%</u>) of [Wuhan University](https://whu.edu.cn/).
  - \[12/2020\] One paper accepted to [INFOCOM](https://infocom2021.ieee-infocom.org/) for a poster presentation.
  - \[09/2020\] I've decided to pursue my Ph.D. degree in the [AAIS](http://www.aais.pku.edu.cn) of [PKU](https://www.pku.edu.cn/), and will spend the next 5 wonderful years in Beijing. Go PKU!
