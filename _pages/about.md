@@ -50,4 +50,5 @@ Drop me a line if you are also interested in computational neuroscience, or rein
  - I learned and mastered **violin**. But I haven't played it for years.
  - I am a born **collaborator**. I like working and performing with different people.
  - I love the beauty of **math**, the exploration in the platonic world, the highest intellectual product of human mind. Cheers~
+ - I am a nostalgist in technology, a martinet in behavior, a misanthrope in society, an ascetic in spirit, a logical positivist in philosophy, a learner in lifetime.
 
