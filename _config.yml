@@ -11,9 +11,9 @@ title                    : "Hui(Norbert) Zheng"
 title_separator          : "-"
 name                     : &name "Hui(Norbert) Zheng"
 description              : &description "1st-year Ph.D. student @ PKU AAIS"
-url                      : https://fassial.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://norbertzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fassial/fassial.github.io"
+repository               : "NorbertZheng/norbertzheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : fassial
+  github           : Norbert Zheng
   google_plus      :
   keybase          :
   instagram        :
