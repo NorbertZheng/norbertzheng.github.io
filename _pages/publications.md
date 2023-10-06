@@ -12,6 +12,11 @@ See the full list on  [Google Scholar](https://scholar.google.com/citations?hl=e
 ---
 Note: * indicates equal contribution
 
+### 2023
+**Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects**  
+<u>Hui Zheng*</u>, Zhongtao Chen\*, Haiteng Wang, Jianyang Zhou, Lin Zheng, Yunzhe Liu  
+In submission\.\.\.
+
 ### 2021
 ------
 **SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving**  

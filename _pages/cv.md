@@ -11,7 +11,7 @@ author_profile: true
 
 Research Interests
 ======
-* **Neuroscience**: Computational Neuroscience; Reinforcement Learning
+* **Neuroscience**: Computational Neuroscience; Brain Decoding
 
 Education
 ======
@@ -24,18 +24,14 @@ Education
 
 Research Experience
 ======
-* **Peking University, Beijing, China**, Research Assistant, Oct. 2021 - Present
-  * Advisor: Dr. Yunzhe Liu
+* **Peking University, Beijing, China**, Research Assistant, Jan. 2022 - Dec. 2022
+  * Advisor: Dr. James Whittington & Dr. Yunzhe Liu
   * Researched the role of replay for memory consolidation.
   * Build a machine replicate the replay observed in both human and rodent.
 * **Peking University, Beijing, China**, Research Assistant, Mar. 2021 - Aug. 2021
   * Advisor: Dr. Si Wu
   * Researched the global to local information processing.
   * Analyzed the dynamics of the neural network model with gap junction.
-* **Tsinghua University, Beijing, China**, Research Assistant, Sept. 2020 - Mar. 2021
-  * Advisor: Dr. Minmin Luo
-  * Researched the role of pituitary cells in systemic neuroinflammation at the single-cell transcriptome level.
-  * Revealed the transcriptional differences of different types of pituitary cells in the process of central nervous endocrine inflammation regulation.
 * **Tsinghua University, Beijing, China**, Research Assistant, May. 2020 - Aug. 2020
   * Advisor: Dr. Bin Liu
   * Researched the real-time processing of autonomous driving in the Internet of Vehicles.
@@ -58,6 +54,9 @@ Awards & Honors
 
 Publications
 ======
+[//]: 2023
+* <u>Hui Zheng*</u>, Zhongtao Chen\*, Haiteng Wang, Jianyang Zhou, Lin Zheng and Yunzhe Liu, "Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects," in submission...
+
 [//]: 2021
 * Wenquan Xu, Haoyu Song, Linyang Hou, <u>Hui Zheng</u>, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang and Bin Liu, "SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving," in IEEE International Conference on Computer Communications (INFOCOM), 2021.
 

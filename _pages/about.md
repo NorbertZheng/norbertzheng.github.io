@@ -9,18 +9,18 @@ redirect_from:
 
 # About Me
 ------
-I am a 1st-year Ph.D. student in the [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/). My advisor is [Dr. Yunzhe Liu](https://brain.bnu.edu.cn/kytd/jsyjy/Ljs/18e25c12984e48eb966932924b9b76c7.htm). I obtained my Bachelor's degree in Computer Science from [Hongyi Honor College](http://hyxt.whu.edu.cn/) at [Wuhan University](https://whu.edu.cn/), China.
+I am a 3rd-year Ph.D. candidate in the [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/). My advisor is [Dr. Yunzhe Liu](https://brain.bnu.edu.cn/kytd/jsyjy/Ljs/18e25c12984e48eb966932924b9b76c7.htm). I obtained my Bachelor's degree in Computer Science from [Hongyi Honor College](http://hyxt.whu.edu.cn/) at [Wuhan University](https://whu.edu.cn/), China.
 
 Previously, I was a visiting student at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by [Dr. Bin Liu](https://www.cs.tsinghua.edu.cn/info/1126/3587.htm), [National Institute of Biological Sciences](http://nibs.ac.cn/), advised by [Dr. Minmin Luo](http://nibs.ac.cn/yjsjyimgshow.php?cid=5&sid=6&id=775), [Peking University](https://www.pku.edu.cn/), advised by [Dr. Si Wu](https://mgv.pku.edu.cn/yjdw/aszyxck/xlyrzkxxy/355701.htm).
 
 ## Research Interests
-My research interests lie on **computational neuroscience** and **reinforcement learning**. 
+My research interests lie on **computational neuroscience** and **brain decoding**. 
 
 I utilize the quantitative and computational thinking to understand our brain better. Specifically, I bind computations of artificial and brain networks to understand the hippocampal-cortical interaction, e.g. replay.
 
-I also use reinforcement learning and machine learning tools to understand neural code.
+I also use machine learning tools to understand neural code. Specifically, I use advanced deep learning methods to decode brain recordings, e.g., EEG, MEG, sEEG.
 
-Drop me a line if you are also interested in computational neuroscience, or reinforcement learning research!
+Drop me a line if you are also interested in computational neuroscience, or brain decoding research!
 
 # News
 ------
