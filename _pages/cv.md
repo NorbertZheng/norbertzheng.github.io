@@ -15,7 +15,7 @@ Research Interests
 
 Education
 ======
-* Ph.D. student in Neuroscience, Peking University, 2026 (expected)
+* Ph.D. in Integrated Life Sciences (physics), Peking University, 2026 (expected)
   * Advisor: Dr. Yunzhe Liu
 * B.S. in Computer Science (with honors), Wuhan University, 2021
   * **GPA**: 3.84/4.00 (92.1/100)
@@ -54,8 +54,13 @@ Awards & Honors
 
 Publications
 ======
-[//]: 2023
-* <u>Hui Zheng*</u>, Zhongtao Chen\*, Haiteng Wang, Jianyang Zhou, Lin Zheng and Yunzhe Liu, "Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects," in submission...
+[//]: 2025
+* Zhongtao Chen\*, <u>Hui Zheng*</u>, Jianyang Zhou\*, Lin Zheng\*, Peiyang Lin, Haiteng Wang, Raymond Dolan, Tim Behrens and Yunzhe Liu, "Interpreting Sleep Activity Through Neural Contrastive Learning," in submission to Nature Neuroscience, 2025.
+
+* <u>Hui Zheng*</u>, Zhongtao Chen\*, Haiteng Wang, Jianyang Zhou, Lin Zheng, Peiyang Lin and Yunzhe Liu, "SI-SD: Sleep Interpreter through awake-guided cross-subject Semantic Decoding," in submission IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
+
+[//]: 2024
+* <u>Hui Zheng*</u>, Haiteng Wang\*, Weibang Jiang, Zhongtao Chen, Li He, Peiyang Lin, Penghu Wei, Guoguang Zhao and Yunzhe Liu, "Du-IN: Discrete units-guided mask modeling for decoding speech from Intracranial Neural Signals," in Advances in Neural Information Processing Systems (NeurIPS), 2024.
 
 [//]: 2021
 * Wenquan Xu, Haoyu Song, Linyang Hou, <u>Hui Zheng</u>, Xinggong Zhang, Chuwen Zhang, Wei Hu, Yi Wang and Bin Liu, "SODA: Similar 3D Object Detection Accelerator at Network Edge for Autonomous Driving," in IEEE International Conference on Computer Communications (INFOCOM), 2021.

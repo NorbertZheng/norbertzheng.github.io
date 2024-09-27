@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 ------
-I am a 3rd-year Ph.D. candidate in the [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/). My advisor is [Dr. Yunzhe Liu](https://brain.bnu.edu.cn/kytd/jsyjy/Ljs/18e25c12984e48eb966932924b9b76c7.htm). I obtained my Bachelor's degree in Computer Science from [Hongyi Honor College](http://hyxt.whu.edu.cn/) at [Wuhan University](https://whu.edu.cn/), China.
+I am a 4th-year Ph.D. candidate in the [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/). My advisor is [Dr. Yunzhe Liu](https://brain.bnu.edu.cn/kytd/jsyjy/Ljs/18e25c12984e48eb966932924b9b76c7.htm). I obtained my Bachelor's degree in Computer Science from [Hongyi Honor College](http://hyxt.whu.edu.cn/) at [Wuhan University](https://whu.edu.cn/), China.
 
 Previously, I was a visiting student at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by [Dr. Bin Liu](https://www.cs.tsinghua.edu.cn/info/1126/3587.htm), [National Institute of Biological Sciences](http://nibs.ac.cn/), advised by [Dr. Minmin Luo](http://nibs.ac.cn/yjsjyimgshow.php?cid=5&sid=6&id=775), [Peking University](https://www.pku.edu.cn/), advised by [Dr. Si Wu](https://mgv.pku.edu.cn/yjdw/aszyxck/xlyrzkxxy/355701.htm).
 
@@ -24,6 +24,7 @@ Drop me a line if you are also interested in computational neuroscience, or brai
 
 # News
 ------
+ - \[09/2024\] One paper accepted to [NeurIPS](https://neurips.cc/) for a poster presentation.
  - \[09/2021\] Start my Ph.D. @ Peking University, China, highly excited about the study life!
  - \[06/2021\] I graduated from Wuhan University.
  - \[04/2021\] I'm an Outstanding Graduate (12 out of 127, <u>10%</u>) of [Wuhan University](https://whu.edu.cn/).
